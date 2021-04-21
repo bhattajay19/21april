@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="project2.enroll.views.enroll" />
+          <option value="ajay101.ajay101.urls.school" />
+          <option value="ajay1.ajay1.urls.school" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
